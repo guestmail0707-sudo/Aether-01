@@ -40,19 +40,19 @@ const SoulCare = () => {
                   Our experienced professionals are ready to help you on your journey to better physical health and mobility.
                 </p>
                 <div className="space-y-3 text-cream-700 mb-8">
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     <span className="w-3 h-3 bg-cream-600 rounded-full mr-3"></span>
                     <span>Certified and experienced physiotherapists</span>
                   </div>
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     <span className="w-3 h-3 bg-cream-600 rounded-full mr-3"></span>
                     <span>Flexible scheduling options</span>
                   </div>
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     <span className="w-3 h-3 bg-cream-600 rounded-full mr-3"></span>
                     <span>Personalized treatment plans</span>
                   </div>
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     <span className="w-3 h-3 bg-cream-600 rounded-full mr-3"></span>
                     <span>Available for consultations</span>
                   </div>
@@ -79,19 +79,19 @@ const SoulCare = () => {
                   We offer a comprehensive range of assistive technologies and devices to enhance independence and quality of life.
                 </p>
                 <div className="space-y-3 text-cream-700 mb-8">
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     <span className="w-3 h-3 bg-cream-600 rounded-full mr-3"></span>
                     <span>Assistive technology solutions</span>
                   </div>
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     <span className="w-3 h-3 bg-cream-600 rounded-full mr-3"></span>
                     <span>Mobility enhancement tools</span>
                   </div>
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     <span className="w-3 h-3 bg-cream-600 rounded-full mr-3"></span>
                     <span>Communication aids</span>
                   </div>
-                  <div className="flex items-center justify-center">
+                  <div className="flex items-center">
                     <span className="w-3 h-3 bg-cream-600 rounded-full mr-3"></span>
                     <span>Daily living support devices</span>
                   </div>
